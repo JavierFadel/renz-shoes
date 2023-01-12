@@ -154,7 +154,6 @@ div#captioned-gallery {
   width: 100%;
   overflow: hidden;
   margin-bottom: 3rem;
-  height: 80vh;
 }
 
 figure.slider {
@@ -234,7 +233,7 @@ figure.slider img {
 }
 @media only screen and (max-width: 37.5em) {
   .collection--1 {
-    background-image: linear-gradient(to top, rgba(51, 51, 51, 0.5) 50%, #333333 100%), url("https://images.unsplash.com/photo-1496747611176-843222e1e57c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2073&q=80");
+    background-image: linear-gradient(to top, rgba(51, 51, 51, 0.5) 50%, #333333 100%), url("https://images.unsplash.com/photo-1465479423260-c4afc24172c6?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2069&q=80");
     align-items: center;
   }
 }
@@ -244,7 +243,7 @@ figure.slider img {
 }
 @media only screen and (max-width: 37.5em) {
   .collection--2 {
-    background-image: linear-gradient(to top, rgba(51, 51, 51, 0.5) 50%, #333333 100%), url("https://images.unsplash.com/photo-1514989940723-e8e51635b782?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80");
+    background-image: linear-gradient(to top, rgba(51, 51, 51, 0.5) 50%, #333333 100%), url("https://images.unsplash.com/photo-1503577915147-a658ba199d6a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80");
     align-items: center;
   }
 }
@@ -254,7 +253,7 @@ figure.slider img {
 }
 @media only screen and (max-width: 37.5em) {
   .collection--3 {
-    background-image: linear-gradient(to top, rgba(51, 51, 51, 0.5) 50%, #333333 100%), url("https://images.unsplash.com/photo-1629532599813-141ef98cc1a0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80");
+    background-image: linear-gradient(to top, rgba(51, 51, 51, 0.5) 50%, #333333 100%), url("https://images.unsplash.com/photo-1456613820599-bfe244172af5?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2074&q=80");
     align-items: center;
   }
 }
